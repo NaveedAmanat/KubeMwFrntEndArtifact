@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: frntEnd
-        image:navedamanat/frntEnd:latest
+        image:navedamanat/frntend:latest
 
         imagePullPolicy: IfNotPresent
         ports:
